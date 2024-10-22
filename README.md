@@ -1,5 +1,11 @@
 # Image Description using Gemini AI
 
+[![Image Description](https://github.com/user-attachments/assets/5cfdd4f9-380e-445e-a48a-0997b704745a)](https://github.com/user-attachments/assets/5cfdd4f9-380e-445e-a48a-0997b704745a)
+
+![Image Description](https://github.com/mugunthjhs/Image-Description-Gen_AI/blob/main/output%20image1.png)
+![Image Description](https://github.com/mugunthjhs/Image-Description-Gen_AI/blob/main/output%20image2.png)
+
+
 This project is a Streamlit-based web app that uses Google Generative AI (Gemini 1.5 Pro) to generate descriptions of uploaded images. The user can upload an image file, provide an optional input text, and the app will return a detailed description or response based on the given input and the image.
 
 ## Features
